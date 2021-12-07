@@ -25,7 +25,7 @@
 </div>
 
 <div id="detail">
-    sssssss
+    
 
 </div>
 
